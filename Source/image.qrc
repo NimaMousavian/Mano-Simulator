@@ -1,0 +1,33 @@
+<RCC>
+  <qresource prefix="image">
+    <file>images/CODE.png</file>
+    <file>images/CONTROL CODE.png</file>
+    <file>images/build.png</file>
+    <file>images/reset.png</file>
+    <file>images/stop.png</file>
+    <file>images/run.png</file>
+    <file>images/icons8-go-to-start-32.png</file>
+    <file>images/next.png</file>
+    <file>images/step.png</file>
+    <file>images/computer.png</file>
+    <file>images/AC (2).png</file>
+    <file>images/AC.png</file>
+    <file>images/AR (2).png</file>
+    <file>images/AR.png</file>
+    <file>images/assembly code.png</file>
+    <file>images/back1 copy.png</file>
+    <file>images/back1.png</file>
+    <file>images/CAR (2).png</file>
+    <file>images/CAR.png</file>
+    <file>images/CONSOLE.png</file>
+    <file>images/CONTROL MEMORY.png</file>
+    <file>images/DR (2).png</file>
+    <file>images/DR.png</file>
+    <file>images/INPUT.png</file>
+    <file>images/MEMORY.png</file>
+    <file>images/PC (2).png</file>
+    <file>images/PC.png</file>
+    <file>images/SBR (2).png</file>
+    <file>images/SBR.png</file>
+  </qresource>
+</RCC>
